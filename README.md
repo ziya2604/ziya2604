@@ -12,14 +12,13 @@
 
 ### 👩‍💻 About Me
 
-I'm a final-year B.Tech Information Technology student at Manipal University Jaipur (CGPA: **8.73**). I enjoy building things — from web apps and APIs to ML models and data pipelines. My work tends to sit at the intersection of software development, machine learning, and data analytics.
+I'm a final-year B.Tech Information Technology student at Manipal University Jaipur with aggregate CGPA of **8.73**. I enjoy creating things — web apps, data-driven tools, and ML models that work on real-world problems. I have experience in software development, Full-stack Development, data analytics, and the fundamentals of machine learning and AI, and I'm always looking to go deeper in each of these areas.
 
-I like working on problems that have real-world context. Most of my projects have come from that — something I found interesting, a gap I noticed, or a challenge that pushed me to learn something new. I'm currently deepening my knowledge in machine learning and exploring how to build more robust full-stack applications.
+Currently improving my full-stack development skills, learning backend development, advanced ML techniques, and exploring system design.
 
 - 🎓 Final year · B.Tech Information Technology · Manipal University Jaipur
-- 🏆 Dean's List Excellence Award — highest GPA in first semester
 - 💡 Interests: **Software Development · Full-Stack Dev · Machine Learning · Data Analytics**
-- 🌱 Currently learning: **advanced ML techniques, system design**
+- 🌱 Currently learning: **backend development, advanced ML, full-stack dev, system design**
 
 ---
 
@@ -95,6 +94,7 @@ A community-driven disaster reporting platform with an interactive UI for incide
 
 ### 🏆 Achievements
 
+- 🌸 **GirlScript Summer of Code (GSSOC)** — Open Source Contributor, 2025
 - 🥇 **Dean's List Excellence Award, MUJ** — Highest GPA in First Semester (Apr 2024)
 - ⚡ **MUJ HackX 2.0** — Advanced to Round 2 (Sep 2024)
 - 🏅 **IEEE WIE MUJ Hackathon (Apotheosis)** — Special Mentions (Apr 2024)
