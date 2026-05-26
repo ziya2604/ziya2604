@@ -112,7 +112,7 @@ A community-driven disaster reporting platform with an interactive UI for incide
 
 ### 🤝 Leadership
 
-- 📷 **Mentor, Aperture MUJ** *(May 2025 – Present)* — Mentoring students in photography and digital editing
+- 📷 **Mentor, Aperture MUJ** *(May 2025 – May 2026)* — Mentoring students in photography and digital editing
 - ⚡ **Senior Coordinator, IEEE WIE MUJ** *(May 2024 – May 2025)* — Coordinated workshops and events
 - 🛠️ **Core Committee, GENESIS — IEEE MUJ Technical Fest** *(Jun–Oct 2024)* — Organized technical events
 
