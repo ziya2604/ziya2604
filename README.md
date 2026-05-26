@@ -1,30 +1,25 @@
-<h1 align="center">Hi, I'm Ziya 👋</h1>
-<h3 align="center">B.Tech Information Technology · Manipal University Jaipur</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ziya-parween"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ziyaparween0426@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ziya2604"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello+World!+%F0%9F%91%8B+I'm+Ziya+Parween;Dev+%7C+ML+%7C+Data+%E2%80%94+Building+things+that+matter.)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziya-parween)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ziyaparween0426@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ziya2604)
+
+</div>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a final-year B.Tech Information Technology student at Manipal University Jaipur with a CGPA of **8.73**, passionate about building things that sit at the intersection of **machine learning**, **data analytics**, **software development**, and **full-stack development**.
+I'm a final-year B.Tech Information Technology student at Manipal University Jaipur (CGPA: **8.73**). I enjoy building things — from web apps and APIs to ML models and data pipelines. My work tends to sit at the intersection of software development, machine learning, and data analytics.
 
-I enjoy the full journey — from wrangling messy datasets and training models to designing clean, functional interfaces that people actually want to use. I believe the best tech solutions are ones that are not just technically sound but genuinely useful, and that's the bar I hold my own work to.
+I like working on problems that have real-world context. Most of my projects have come from that — something I found interesting, a gap I noticed, or a challenge that pushed me to learn something new. I'm currently deepening my knowledge in machine learning and exploring how to build more robust full-stack applications.
 
-Whether it's building a marketplace analytics engine with ML-powered predictions, detecting Parkinson's disease from spiral drawings, or creating a disaster response platform from scratch — I gravitate toward projects that have real-world impact.
-
-Outside of code, I mentor students in photography and digital editing, coordinate IEEE events, and contribute to open-source. I'm a firm believer that the best engineers are curious about everything, not just their domain.
-
-- 🔭 **Final year** B.Tech IT at Manipal University Jaipur
-- 🧠 Interests: Machine Learning · Data Analytics · Software Development · Full-Stack Dev
+- 🎓 Final year · B.Tech Information Technology · Manipal University Jaipur
 - 🏆 Dean's List Excellence Award — highest GPA in first semester
-- 🌱 Currently contributing to open source via **GirlScript Summer of Code (GSSOC)**
-- 💬 Ask me about **ML models, Python, data pipelines, or React**
-- 📫 Reach me at **ziyaparween0426@gmail.com**
+- 💡 Interests: **Software Development · Full-Stack Dev · Machine Learning · Data Analytics**
+- 🌱 Currently learning: **advanced ML techniques, system design**
 
 ---
 
@@ -33,9 +28,9 @@ Outside of code, I mentor students in photography and digital editing, coordinat
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -49,6 +44,7 @@ Outside of code, I mentor students in photography and digital editing, coordinat
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=flat&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
@@ -66,40 +62,39 @@ Outside of code, I mentor students in photography and digital editing, coordinat
 #### 🔵 [MicroEarnHub](https://github.com/ziya2604/MicroEarnHub) — Student Skill Marketplace Analytics & Prediction
 > `Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Plotly` `Seaborn` `Random Forest`
 
-A data-driven analytics system that analyzes student skill supply and service demand using survey data. Built ML models for **pay prediction**, **income classification**, **hiring likelihood prediction**, and a **KNN-based recommendation system** for personalized opportunity matching and user segmentation.
+A data-driven analytics system that analyzes student skill supply and service demand using survey data. Built ML models for pay prediction, income classification, hiring likelihood prediction, and a KNN-based recommendation system for personalized opportunity matching and user segmentation.
 
 ---
 
-#### 🟠 [SpiralNet-PD](https://github.com/ziya2604/SpiralNet-PD) — Parkinson's Disease Detection via Spiral Analysis
+#### 🟠 [SpiralNet-PD](https://github.com/ziya2604/SpiralNet-PD) — Parkinson's Disease Detection
 > `Python` `OpenCV` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-A machine learning model that detects Parkinson's disease and predicts progression stages using spiral-drawing image data. Applied preprocessing, feature extraction, and model training workflows to analyze motor irregularities and support stage-wise clinical prediction.
+A machine learning model that detects Parkinson's disease and predicts progression stages from spiral-drawing image data. Applied preprocessing, feature extraction, and model training to analyze motor irregularities and support stage-wise clinical prediction. *(Completed)*
 
 ---
 
 #### 🟢 [Sahayak](https://github.com/BhagatShubhangi/Sahayak) — Community Disaster Reporting Platform
 > `HTML` `CSS` `JavaScript` `Python` `RESTful API`
 
-A community-driven disaster reporting platform with an interactive UI enabling users to report incidents, access real-time updates, and engage with critical information. Integrated Python backend and REST APIs for smooth data handling and application functionality.
+A community-driven disaster reporting platform with an interactive UI for incident reporting and real-time updates. Integrated a Python backend with REST APIs for smooth data handling.
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziya2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziya2604&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziya2604&theme=tokyonight&hide_border=true"/>
-</p>
+![Ziya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziya2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziya2604&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ziya2604&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ### 🏆 Achievements
 
-- 🌸 **GirlScript Summer of Code (GSSOC)** — Open Source Contributor, 2025
 - 🥇 **Dean's List Excellence Award, MUJ** — Highest GPA in First Semester (Apr 2024)
 - ⚡ **MUJ HackX 2.0** — Advanced to Round 2 (Sep 2024)
 - 🏅 **IEEE WIE MUJ Hackathon (Apotheosis)** — Special Mentions (Apr 2024)
@@ -115,16 +110,16 @@ A community-driven disaster reporting platform with an interactive UI enabling u
 
 ---
 
-### 🤝 Leadership & Community
+### 🤝 Leadership
 
-- 📷 **Mentor, Aperture MUJ** *(May 2025 – Present)* — Mentoring students in photography and digital editing using Adobe tools
-- ⚡ **Senior Coordinator, IEEE WIE MUJ** *(May 2024 – May 2025)* — Coordinated workshops and events, supported promotions and student engagement
-- 🛠️ **Core Committee Member, GENESIS — IEEE MUJ Technical Fest** *(Jun–Oct 2024)* — Organized and managed technical events at the institute-level fest
+- 📷 **Mentor, Aperture MUJ** *(May 2025 – Present)* — Mentoring students in photography and digital editing
+- ⚡ **Senior Coordinator, IEEE WIE MUJ** *(May 2024 – May 2025)* — Coordinated workshops and events
+- 🛠️ **Core Committee, GENESIS — IEEE MUJ Technical Fest** *(Jun–Oct 2024)* — Organized technical events
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziya2604&style=flat&color=1ed760&label=PROFILE+VIEWS"/>
-</p>
+<div align="center">
 
-<p align="center"><i>"Build things that matter."</i></p>
+![Profile Views](https://komarev.com/ghpvc/?username=ziya2604&style=flat&color=1ed760&label=PROFILE+VIEWS)
+
+</div>
