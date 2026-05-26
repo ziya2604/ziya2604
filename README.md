@@ -68,7 +68,7 @@ A data-driven analytics system that analyzes student skill supply and service de
 #### 🟠 [SpiralNet-PD](https://github.com/ziya2604/SpiralNet-PD) — Parkinson's Disease Detection
 > `Python` `OpenCV` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-A machine learning model that detects Parkinson's disease and predicts progression stages from spiral-drawing image data. Applied preprocessing, feature extraction, and model training to analyze motor irregularities and support stage-wise clinical prediction. *(Completed)*
+A machine learning model that detects Parkinson's disease and predicts progression stages from spiral-drawing image data. Applied preprocessing, feature extraction, and model training to analyze motor irregularities and support stage-wise clinical prediction.
 
 ---
 
