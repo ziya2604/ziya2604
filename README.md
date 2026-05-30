@@ -56,7 +56,7 @@ Currently improving my full-stack development skills, learning backend developme
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🔵 [MicroEarnHub](https://github.com/ziya2604/MicroEarnHub) — Student Skill Marketplace Analytics & Prediction
 > `Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Plotly` `Seaborn` `Random Forest`
@@ -79,7 +79,7 @@ A community-driven disaster reporting platform with an interactive UI for incide
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -92,29 +92,29 @@ A community-driven disaster reporting platform with an interactive UI for incide
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
-- 🌸 **GirlScript Summer of Code (GSSOC)** — Open Source Contributor, 2025
-- 🥇 **Dean's List Excellence Award, MUJ** — Highest GPA in First Semester (Apr 2024)
-- ⚡ **MUJ HackX 2.0** — Advanced to Round 2 (Sep 2024)
-- 🏅 **IEEE WIE MUJ Hackathon (Apotheosis)** — Special Mentions (Apr 2024)
-
----
-
-### 📜 Certifications
-
-- ☁️ **AWS - Storage** · Coursera (Oct–Nov 2025)
-- 🐍 **3D Modeling in Rhinoceros with Python/Rhinoscript** · Coursera (Jan–Mar 2024)
-- 🧮 **Data Structures and Algorithms Using Java** · NPTEL (Aug–Oct 2023)
-- 🗄️ **Database Foundations** · Oracle Academy (Jul–Sep 2023)
+-  **GirlScript Summer of Code (GSSOC)** — Open Source Contributor, 2025
+-  **Dean's List Excellence Award, MUJ** — Highest GPA in First Semester (Apr 2024)
+-  **MUJ HackX 2.0** — Advanced to Round 2 (Sep 2024)
+-  **IEEE WIE MUJ Hackathon (Apotheosis)** — Special Mentions (Apr 2024)
 
 ---
 
-### 🤝 Leadership
+###  Certifications
 
-- 📷 **Mentor, Aperture MUJ** *(May 2025 – May 2026)* — Mentoring students in photography and digital editing
-- ⚡ **Senior Coordinator, IEEE WIE MUJ** *(May 2024 – May 2025)* — Coordinated workshops and events
-- 🛠️ **Core Committee, GENESIS — IEEE MUJ Technical Fest** *(Jun–Oct 2024)* — Organized technical events
+-  **AWS - Storage** · Coursera (Oct–Nov 2025)
+-  **3D Modeling in Rhinoceros with Python/Rhinoscript** · Coursera (Jan–Mar 2024)
+-  **Data Structures and Algorithms Using Java** · NPTEL (Aug–Oct 2023)
+-  **Database Foundations** · Oracle Academy (Jul–Sep 2023)
+
+---
+
+###  Leadership
+
+-  **Mentor, Aperture MUJ** *(May 2025 – May 2026)* — Mentoring students in photography and digital editing
+-  **Senior Coordinator, IEEE WIE MUJ** *(May 2024 – May 2025)* — Coordinated workshops and events
+-  **Core Committee, GENESIS — IEEE MUJ Technical Fest** *(Jun–Oct 2024)* — Organized technical events
 
 ---
 
